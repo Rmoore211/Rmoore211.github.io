@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>SirKalach</title>
+    <title>Ryan Moore</title>
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kaushan+Script">
@@ -27,7 +27,7 @@
                 <p class="title">Network Engineer</p>
             </div>
             <div class="container text-center">
-                <p class="lead font-monospace text-break text-capitalize text-center text-sm-center text-md-center text-lg-center text-xxl-center d-xl-flex justify-content-xl-center align-items-xl-start description" title="00oıjıoj">Hello World <br>I am a software developer from Denmark. I am currently pursuing my higher studies.<br>I do mobile app developement, web developement and cyber security for different clients world wide.<br></p>
+                <p class="lead font-monospace text-break text-capitalize text-center text-sm-center text-md-center text-lg-center text-xxl-center d-xl-flex justify-content-xl-center align-items-xl-start description" title="00oıjıoj">Hello Everyone, <br>I am a student at Notre Dame College. I am currently majoring in graphic design.<br>I do drawings, different kinds of designs and logos for comanies and brands, several grpahics, and  .<br></p>
                 <div class="intro"></div>
             </div>
         </header>
@@ -35,7 +35,7 @@
     <footer class="footer-basic"><code></code>
         <figure class="figure"></figure>
         <div class="social"><a href="https://linkedin.com/in/sirkiraz/"><i class="fab fa-linkedin"></i></a><a href="mailto:sirkalach@usa.com"><i class="fas fa-envelope"></i></a><a href="https://github.com/sirkiraz"><i class="icon ion-social-github"></i></a><a href="https://open.spotify.com/artist/6XrTOQA77k9fAUN58Jo7qL"><i class="fab fa-spotify"></i></a><a href="https://music.apple.com/tr/artist/sircherry/1531944212"><i class="fab fa-itunes-note"></i></a><a href="https://www.youtube.com/channel/UCEDJQOkBY_5OzNJSh5j9IPA"><i class="fab fa-youtube"></i></a><a href="https://twitter.com/sirkalach"><i class="icon ion-social-twitter"></i></a></div>
-        <p class="copyright">By Kalach With <i class="fas fa-heart"></i> 2021</p>
+        <p class="copyright">By Ryan Moore<i class="fas fa-heart"></i> 2023</p>
     </footer>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/js/agency.js"></script>
