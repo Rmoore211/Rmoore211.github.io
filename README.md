@@ -1,7 +1,8 @@
-# 🌐 Simple Personel Website
+# 🌐 About Ryan Moore
 
-💕 The project is for beginners. For this reason I took care to keep it simple, you can use and share as you wish.
-
+Graphic Desighner
+  I am an Notre Dame College student, currently a Graphic Design major
+  I create custom/personal graphics, logos business cards and come up with different designs.
 📦 Contents
 
 - [X] Footer
